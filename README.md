@@ -1,7 +1,7 @@
 # TryHackMe- TakeOver-Walkthrough
 
 <p align="center">
-  <img src="screenshots/room-logo.png" width="300">
+  <img src="logo.png" width="300">
 </p>
 
 
